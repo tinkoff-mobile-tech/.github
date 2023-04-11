@@ -18,6 +18,6 @@
 А подробнее прочитать о том, как мы работаем и развиваем комьюнити, можно на нашей странице: [https://www.tinkoff.ru/career/it/mobile/](https://l.tinkoff.ru/tinkoff-mobile-tech)  
 
 Где еще следить за нами:
-- Доклады с конференций и митапов, а еще выпуски шоу о мобильной разработке и софт-скиллах «Как это работает»: https://www.youtube.com/@itstinkoffmobile
-- Самое интересное за неделю по стримам и технологиям, а также анонсы митапов: https://t.me/itstinkoff
-- Вакансии в нашу команду: https://t.me/tinkoffjobs
+- Доклады с конференций и митапов, а еще выпуски шоу о мобильной разработке и софт-скиллах «Как это работает»: [https://www.youtube.com/@itstinkoffmobile](https://l.tinkoff.ru/itstinkoff-mobile-yt)
+- Самое интересное за неделю по стримам и технологиям, а также анонсы митапов: [https://t.me/itstinkoff](https://l.tinkoff.ru/itstinkoff-telegram)
+- Вакансии в нашу команду: [https://t.me/tinkoffjobs](https://l.tinkoff.ru/itstinkoff-crew)
